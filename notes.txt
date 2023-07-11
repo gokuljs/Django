@@ -1,0 +1,4 @@
+Starting new django project 
+
+## 1. Create a virtual environment
+django-admin startproject mysite // command for starting new project
